@@ -1,0 +1,2218 @@
+[
+     {
+          "id": "1",
+          "name": "Blooming Fluorescence",
+          "year": "2022",
+          "concerts": [
+               {
+                    "date": "15/11/2022",
+                    "place": "Maison de l'Argentine - Paris (FR)",
+                    "ensemble": {
+                         "name": "S201",
+                         "Players": [
+                              "Flute: Dimitry Stavrianidi",
+                              "Oboe: Tamon Yashima",
+                              "C.B.Clarinet: Heni Hyunjung Kim",
+                              "Accordion: Filip Erakovic",
+                              "Violoncello: Robert „Rob“ Alan Wheatley"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "https://fb.me/e/2RJ1yya8n",
+                    "poster": "https://drive.google.com/file/d/1k3hcMEq0YvBsx4cO7bQda0s_rNogxW7M/view?usp=sharing"
+               },
+               {
+                    "date": "27/01/2023",
+                    "place": "Rübühne - Esse (DE)",
+                    "ensemble": {
+                         "name": "S201",
+                         "Players": [
+                              "Flute: Dimitry Stavrianidi",
+                              "Oboe: Tamon Yashima",
+                              "C.B.Clarinet: Heni Hyunjung Kim",
+                              "Accordion: Filip Erakovic",
+                              "Violoncello: Robert „Rob“ Alan Wheatley"
+                         ]
+                    }
+               }
+          ],
+          "instruments": "B.Fl, Ob, C.B.Cl, Acc, Vc",
+          "electronics": true,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [],
+               "soundcloud": [],
+               "spotify": []
+          },
+          "commission": "commissioned by ensemble S201 with the support of Impuls Neue Musik, and Ministerium für kultur und wissenschaft des landes Nordrhein-Westfalen",
+          "video": true,
+          "category": "chamber music",
+          "video_by": "Virtual Japan TV",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "2",
+          "name": "Paradise (lush sensitivity digitally designed)",
+          "year": "2022",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "28/03/2022",
+                    "place": "Centre Culturel Italien - Paris (FR)",
+                    "ensemble": {
+                         "name": "Li Li-Chin",
+                         "Players": [
+                              "Sheng: Li Li-Chin",
+                              "Electronics: Francisco Uberto"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "https://fb.me/e/2LyKJKSHx",
+                    "poster": "https://drive.google.com/file/d/1_KSbjnv8cDniAZoRHBwyTrij-yYnU-lM/view?usp=sharing"
+               },
+               {
+                    "date": "24/12/2022",
+                    "place": "C-Lab - Taipei (TW)",
+                    "ensemble": {
+                         "name": "Li Li-Chin",
+                         "Players": [
+                              "Sheng: Li Li-Chin",
+                              "Electronics: Heng Cheng"
+                         ]
+                    }
+               },
+               {
+                    "date": "25/12/2022",
+                    "place": "C-Lab - Taipei (TW)",
+                    "ensemble": {
+                         "name": "Li Li-Chin",
+                         "Players": [
+                              "Sheng: Li Li-Chin",
+                              "Electronics: Heng Cheng"
+                         ]
+                    }
+               }
+          ],
+          "instruments": "Sheng (37 reed)",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1qaZi_GajWiBmJHeAJJ13iz55dLtAR4-f/view?usp=sharing",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [],
+               "soundcloud": [],
+               "spotify": []
+          },
+          "commission": "Commissioned by Li Li-Chin with the support of National Foundation for the Arts (TW), the Ministry de la culture (TW), and C-Lab (TW)",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "3",
+          "name": "Lucids dreams are part of my design (Welcome to Paradise)",
+          "year": "2022",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "11/09/2022",
+                    "place": "Gaudeamus Festival - Utrecht (NL)",
+                    "ensemble": {
+                         "name": "Ensemble Resilience",
+                         "Players": [
+                              "Piano: Paolo Gorini",
+                              "B.Clarinet: Marco Danesi",
+                              "Violin: Natalie Kulina"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Pno (midi keyboard), B.Cl, Vl (prepared bow)",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1E7bbKoakabrCyBv00Whzikq4DqNpEXwh/view?usp=share_link",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [],
+               "soundcloud": [],
+               "spotify": []
+          },
+          "commission": "Commisionned by Ensemble Resilience with the support SACEM (FR)",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "4",
+          "name": "Paradise (Digital Pink Flamingos within Dark Mooned Dreams)",
+          "year": "2021",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "20/11/2021",
+                    "place": "Auditorium des Réparatrices, au Conservatoire de Pau (FR)",
+                    "ensemble": {
+                         "name": "Nicolas Crosse",
+                         "Players": ["Double bass: Nicolas Crosse"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Double Bass",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1EHj4yRREJ_QMYAvg--B_FCYmThpjDz5j/view?usp=share_link",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/paradisedigital-pink-flamingos-within-dark-mooned-dreams/s-LjlhbIPQvZy?si=777b5f067bbe4b11a928c997a6db8806&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": []
+          },
+          "commission": "Commisionned by Ensemble Regards with the support SACEM (FR)",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "5",
+          "name": "Guess what freedom smells like",
+          "year": "2021",
+          "categeory": "chamber",
+          "concerts": [
+               {
+                    "date": "21/01/2022",
+                    "place": "Festival Klub Katarakt, Hamburg (DE)",
+                    "ensemble": {
+                         "name": "Interstring Project",
+                         "Players": [
+                              "E.Gtr 1: Phileas Baun",
+                              "E.Gtr 2: Robert Menczel",
+                              "E.Gtr 3: Marius Schnurr",
+                              "E.Gtr 4: Florin Emhardt",
+                              "E.Gtr 5: Matthias Arbter"
+                         ]
+                    }
+               },
+               {
+                    "date": "02/02/2022",
+                    "place": "Krea, Rotterdam (NL)",
+                    "ensemble": {
+                         "name": "Interstring Project",
+                         "Players": [
+                              "E.Gtr 1: Phileas Baun",
+                              "E.Gtr 2: Robert Menczel",
+                              "E.Gtr 3: Marius Schnurr",
+                              "E.Gtr 4: Florin Emhardt",
+                              "E.Gtr 5: Matthias Arbter"
+                         ]
+                    }
+               },
+               {
+                    "date": "21/04/2022",
+                    "place": "Maison de l'Argentine, Paris (FR)",
+                    "ensemble": {
+                         "name": "Interstring Project",
+                         "Players": [
+                              "E.Gtr 1: Phileas Baun",
+                              "E.Gtr 2: Robert Menczel",
+                              "E.Gtr 3: Marius Schnurr",
+                              "E.Gtr 4: Florin Emhardt",
+                              "E.Gtr 5: Matthias Arbter"
+                         ]
+                    }
+               },
+               {
+                    "date": "21/04/2022",
+                    "place": "Gare du Nord hauptbahnhof für Neue Musik, Basel (CH)",
+                    "ensemble": {
+                         "name": "Interstring Project",
+                         "Players": [
+                              "E.Gtr 1: Phileas Baun",
+                              "E.Gtr 2: Robert Menczel",
+                              "E.Gtr 3: Marius Schnurr",
+                              "E.Gtr 4: Florin Emhardt",
+                              "E.Gtr 5: Matthias Arbter"
+                         ]
+                    }
+               }
+          ],
+          "instruments": "Double Bass",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1XlrIZfNAs5NdMD6rQ-2OkQy4R7YAlU7o/view?usp=sharing",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/guess-what-freedom-smells-like-1?si=c5089d7cfbdf4c34b59031c6c866e49e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/6CFKTNJmkaGqPuxr6gFEIN?si=2ba84b689a6f411f"
+               ]
+          },
+          "commission": "Commisionned by Interstring Project with the support of Goethe Institut",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "6",
+          "name": "Paradise (or how I'll get there from a door in the third floor)",
+          "year": "work in progress",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "",
+                    "place": "",
+                    "ensemble": {
+                         "name": "Joshua Hyde",
+                         "Players": [
+                              "Alto Sax: Joshua Hyde",
+                              "electronics: Francisco Uberto"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Alto Sax",
+          "electronics": true,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [],
+               "soundcloud": [],
+               "spotify": []
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "7",
+          "name": "A pink elephant in a room",
+          "year": "2018",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "08/02/2018",
+                    "place": "Salle Maurice Fleuret - Conservatoire National Supérieur de Musique et Danse de Paris, Paris (FR)",
+                    "ensemble": {
+                         "name": "Masako Miyako",
+                         "Players": ["Bass Clarinet: Masako Miyako"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "05/03/2018",
+                    "place": "Cité International des Arts, Paris (FR)",
+                    "ensemble": {
+                         "name": "Masako Miyako",
+                         "Players": ["Bass Clarinet: Masako Miyako"]
+                    },
+                    "program": "https://www.citedesartsparis.net/fr/concert-7-jeunes-compositeurs",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "28/06/2018",
+                    "place": "Salle de l'Orgue - Conservatoire National Supérieur de Musique et Danse de Paris, Paris (FR)",
+                    "ensemble": {
+                         "name": "Masako Miyako",
+                         "Players": ["Bass Clarinet: Masako Miyako"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "14/09/2019",
+                    "place": "Auditori d'Algimia de Alfara, Algimia de Alfara (ESP)",
+                    "ensemble": {
+                         "name": "Jordi ?",
+                         "Players": ["Bass Clarinet: Jordi ?"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Bass Clarinet",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1d6f53hZi0CXw6HeEXd-zHN4cY6enYqBw/view?usp=sharing",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": ["https://youtu.be/FccMxdsyC_4"],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/a-pink-elephant-in-a-room-2018-binaural?si=a2b10da238e44de8b9d23aab3584002d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/3AvFHDrGWp0c24kID10oId?si=5329c1d437974d8f"
+               ]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [
+               "2018 - Honor mention - TRINAC 50 años (ARG)",
+               "2018 - Honor mention - 'Juan Carlos Paz' FNA, (ARG)"
+          ],
+          "press": [
+               {
+                    "blog": {
+                         "language": "French",
+                         "link": "http://www.anaclase.com/chroniques/analog-electro"
+                    }
+               }
+          ]
+     },
+     {
+          "id": "8",
+          "name": "-7 dégrée près du violet",
+          "year": "2018",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "05/03/2018 ",
+                    "place": "Cité International des Arts, Paris (FR)",
+                    "ensemble": {
+                         "name": "20° dans le noir",
+                         "Players": ["Violoncello: Lola Malique"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Violoncello",
+          "electronics": false,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": ["https://youtu.be/LjlHsJC8g5M"],
+               "soundcloud": [],
+               "spotify": []
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "9",
+          "name": "Belladonna",
+          "year": "2016",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "16/05/2018",
+                    "place": "Festival Mixtur, Barcelona  (ESP)",
+                    "ensemble": {
+                         "name": "Richard Haynes",
+                         "Players": []
+                    },
+                    "program": "https://drive.google.com/file/d/0B-lgMW911O61akw4RjUybmJCbUk/view?resourcekey=0-4vc6ZxbatJ2Bp0h3gXx6Jw",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "b flat Clarinet",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1VeSI-NFwJg2gW_mwETYmj5TK8oHpNOnr/view?usp=share_link",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [
+                    "https://www.youtube.com/watch?v=Ac2vXvWxXMk&ab_channel=FranciscoUberto",
+                    "https://www.youtube.com/watch?v=IbuQ-QD1wUM&ab_channel=FranciscoUberto"
+               ],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/belladonna?si=7b513f434bc540b98a417fb543e45fd1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": []
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "10",
+          "name": "Welcome to the void (part -1)",
+          "year": "2015",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "",
+                    "place": "",
+                    "ensemble": {
+                         "name": "",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Bass Clarinet",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1q5RhH-dPgQOA-ZnBbn53XhTU0rQA9uL8/view?usp=share_link",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [],
+               "soundcloud": [],
+               "spotify": []
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "11",
+          "name": "!>>°~1 (Al piano)",
+          "year": "2014",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "",
+                    "place": "",
+                    "ensemble": {
+                         "name": "",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Piano",
+          "electronics": true,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": ["https://youtu.be/htWLzUtUyGo"],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/1-al-piano?si=579d659a40634dc9829398dd351a0213&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": []
+          },
+          "commission": "",
+          "video": true,
+          "video_by": "Francisco Uberto",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "12",
+          "name": "Match Point",
+          "year": "2013",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "?/04/2014",
+                    "place": "Centro Cultural España Córdoba. (ARG)",
+                    "ensemble": {
+                         "name": "Mariano Gentile",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "E. Guitar (Classic guitar)",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B_UfM3LztLbxUHl0bWtfM1hELVk/view?usp=share_link&resourcekey=0-GTLnPN05TTTKnYs7iKo0Ig",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": ["https://youtu.be/Jgkq2nRkpeg?t=866"],
+               "soundcloud": [],
+               "spotify": []
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "13",
+          "name": "Con Fuoco (Finito Vol. 4)",
+          "year": "2013",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "30/10/2008",
+                    "place": "Salle de l'Orgue - Conservatoire National Supérieur de Musique et Danse de Paris, Paris (FR)",
+                    "ensemble": {
+                         "name": "Antonin Le Faure",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Viola",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://www.dropbox.com/s/dd42zgr1fxmnpwx/con%20Fuoco%20%28Finito%20Vol.%204%29F.U.pdf?dl=0",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [],
+               "spotify": []
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": ["2016 - Macari Le Peuve, Fondation de France (FR)"],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "14",
+          "name": "< i >",
+          "year": "2008",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "11/11/2008",
+                    "place": "CEPIA, Universidad Nacional de Córdoba (ARG)",
+                    "ensemble": {
+                         "name": "Giselle Tobares",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Piano",
+          "electronics": false,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": ["https://youtu.be/ViU7wAG24nY"],
+               "soundcloud": [],
+               "spotify": []
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "15",
+          "name": "Pure Bloom",
+          "year": "2020",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "16/08/2021",
+                    "place": "Rübühne, Essen (DE)",
+                    "ensemble": {
+                         "name": "S201",
+                         "Players": [
+                              "Flute: Dimitry Stavrianidi",
+                              "Oboe: Tamon Yashima",
+                              "B.Clarinet: Heni Hyunjung Kim",
+                              "Accordion: Filip Erakovic",
+                              "Violoncello: Robert „Rob“ Alan Wheatley"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "B.Fl, Ob, B.Cl, Acc, Vc",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1zOvg7_ZiC2dk0Q8pQD3s4nf3LQCRz8hG/view?usp=sharing",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [
+                    "https://youtu.be/PXxuV1Y1Oyo",
+                    "https://youtu.be/UbDcft6lEg8"
+               ],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/pure-bloom-2020?si=983e912e23b140c79904ac68e00a4f2d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/6Ccd2jSuNpfScdsLMZBQIa?si=f1d654edd300456e"
+               ]
+          },
+          "commission": "commissioned by ensemble S201 as part of the call for commission BTVHN 2020",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "16",
+          "name": "Diving into the void",
+          "year": "2019",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "09/11/2019",
+                    "place": "CrossRoads Festival, Salzburg (AU) ",
+                    "ensemble": {
+                         "name": "Schallfeld",
+                         "Players": []
+                    },
+                    "program": "http://crossroads.moz.ac.at/session/concert-schallfeld-ensemble/",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "B.Fl, Cl. (B.Cl.), Pno, Acc, Db",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1ibolZ7tMt7q3DZc9191DkYUvWbHSQj1R/view?usp=sharing",
+               "Parts": "https://drive.google.com/drive/folders/13mCJZeN-ujWkTF8gnmR9zAD_GRyNtvqt?usp=share_link"
+          },
+          "lnks": {
+               "youtube": [],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/diving-into-the-void?si=72e6c1b671fe41eca720be07cc23fda5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/2NwN88ShcS2UIaENoBxdTA?si=1675d01f7e3c4af4"
+               ]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "17",
+          "name": "Elettrificare il Rosa",
+          "year": "2019",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "06/10/2022",
+                    "place": "Kilbourn Hall, Eastman School of Music in Rochester, New York (USA)",
+                    "ensemble": {
+                         "name": "OSSIA NEW MUSIC",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "30/11/2019",
+                    "place": "Rainy Days, Luxembourg (LUX)",
+                    "ensemble": {
+                         "name": "United Instruments Of Lucilin",
+                         "Players": [
+                              "violin: André Pons-Valdés",
+                              "viola: Danielle Hanicot",
+                              "violoncello: Jean-Philippe Martignoni",
+                              "Electronics: Francisco Uberto"
+                         ]
+                    },
+                    "program": "https://www.philharmonie.lu/de/programm/luxembourg-composition-academy/2359",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Vl, Vla, Vc",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1PsjAL4eMxV1Np5x9uwEERUXQmJ9KIei2/view?usp=sharing",
+               "Parts": "https://drive.google.com/drive/folders/1N3WjlEYfetXpb3Nq-0oK8CZO0Y6RrlCk?usp=share_link"
+          },
+          "lnks": {
+               "youtube": [
+                    "https://www.youtube.com/watch?v=fTdUcp6mQBU&ab_channel=TheContemporaryListener"
+               ],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/elettrificare-il-rosa-2019?si=b5d4b7862ca346acbd29f2f9c4dadefc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/3y9USJkkOx55dGthbmLSVE?si=1e8d7efbaa964caf"
+               ]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [
+               "2021 - 1st Prize - Call for Score - OSSIA NEW MUSIC (USA)"
+          ],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "18",
+          "name": "Nirvana",
+          "year": "2019",
+          "categeory": "solo",
+          "concerts": [
+               {
+                    "date": "18/06/2019",
+                    "place": "Le CentQuatre 104 - Cursus IRCAM, Paris (FR)",
+                    "ensemble": {
+                         "name": "Rémy Reber",
+                         "Players": [
+                              "E.Gtr: Rémy Reber",
+                              "Electronics: Francisco Uberto"
+                         ]
+                    },
+                    "program": "https://www.ircam.fr/media/uploads/brochures/programme_soireee_cursus.pdf",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "E. Guitar",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1iVJ6Tmo3uunKMWtatJ2tCvkCNZRuzmnf/view?usp=share_link",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": ["https://youtu.be/OHARRfITt-4"],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/nirvana?si=e15e6ce149e24571ac8c07441bb5b96d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/4HfVTbuK3DlYZhdRR5jIoy?si=bb4dbfe8a95f4a7f"
+               ]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "French",
+                         "link": "https://www.resmusica.com/2019/06/21/soiree-high-tech-avec-le-concert-du-cursus-de-ircam-centquatre-paris-festival-manifeste/"
+                    }
+               }
+          ]
+     },
+     {
+          "id": "19",
+          "name": "Bacchanale",
+          "year": "2019",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "27/05/2019",
+                    "place": "Cité International des Arts, Paris (FR)",
+                    "ensemble": {
+                         "name": "Collectif Bacchanale",
+                         "Players": [
+                              "violin: Apolline Kilklar",
+                              "violoncello: Lucie Arnal",
+                              "Accordion: Vincent Gailly",
+                              "Clarinets: Enzo Ferrarato",
+                              "Flute: Alexina Cheval",
+                              "Oboe: Rebecka Neumann"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl, Ob, Cl (B.Cl), Acc, Vl, Vc",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1sHebhOZXzc8kxUAqdjkANQbZf0DdXcyY/view?usp=sharing",
+               "Parts": "https://drive.google.com/drive/folders/1mX9i0MEXpV4_ql3hhWjY5NO5xyJsssLB?usp=share_link"
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [
+                    "https://soundcloud.com/collectif_bacchanale/bacchanale?si=193383f3bc8d4214aa4d1228390f3f15&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "20",
+          "name": "Ceros Ultravioletas",
+          "year": "2017",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "27/05/2019",
+                    "place": "Salle Maurice Fleuret - Conservatoire National Supérieur de Musique et Danse de Paris, Paris (FR)",
+                    "ensemble": {
+                         "name": "Quatuor Tana",
+                         "Players": [
+                              "violin I: Antoine Maisonhaute",
+                              "Violin II: Ivan Lebrun",
+                              "Viola: Maxime Desert",
+                              "violoncello: Jeanne Maisonhaute"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "String Quartet",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1uN9oIwtuDaN4vuByRZVB022sM4TO5R6R/view?usp=sharing",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [
+                    "https://www.youtube.com/watch?v=8W-ONYWjqzM&ab_channel=FranciscoUberto"
+               ],
+               "soundcloud": [
+                    "https://soundcloud.com/collectif_bacchanale/bacchanale?si=193383f3bc8d4214aa4d1228390f3f15&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": ["2018 - 1st Prize - TRINAC 50 años (ARG)"],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "21",
+          "name": "Fluttering Zeros",
+          "year": "2017",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "02/02/2017",
+                    "place": "Wooden Barn, Banchory (UK)",
+                    "ensemble": {
+                         "name": "Red Note ensemble & students of DAI program from CNSMDP",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "13/04/2017",
+                    "place": "SummerHall, Edinburgh (UK)",
+                    "ensemble": {
+                         "name": "Red Note ensemble & students of DAI program from CNSMDP",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "18/04/2017",
+                    "place": "Salle Maurice Fleuret - Conservatoire National Supérieur de Musique et Danse de Paris, Paris (FR)",
+                    "ensemble": {
+                         "name": "Red Note ensemble & students of DAI program from CNSMDP",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl. (B.Fl), Cl. (B.Cl), pno., perc, vla., vc",
+          "electronics": true,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [
+                    "https://www.youtube.com/watch?v=uTYwgCHz5UY&feature=youtu.be"
+               ],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "English",
+                         "link": "https://diaphonique.org/projects/the-machine-as-metaphor-2/"
+                    }
+               }
+          ]
+     },
+     {
+          "id": "22",
+          "name": "Una noche en un jardín de neón",
+          "year": "2017",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "2017",
+                    "place": "Festival Jeunes Talents, Archives Nationaux, Paris (FR)",
+                    "ensemble": {
+                         "name": "Vincent Gailly Trio",
+                         "Players": [
+                              "Violin: Nam Nguyen",
+                              "Accordion: Vincent Gailly",
+                              "Violoncello: ?"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "15/09/2018",
+                    "place": "Zarautz, (ESP)",
+                    "ensemble": {
+                         "name": "",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Acc, Vl, Vc.",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1aSg2RwanY1ReqNJnzXo_-HLOPp7972JV/view?usp=sharing",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "Commissioned by Vincent Gailly",
+          "video": false,
+          "video_by": "",
+          "prizes": ["2017 - 1st prize - X edition Oscar Escudero Prize"],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "23",
+          "name": "IIIème partie: Pixels de statiques",
+          "year": "2016",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "15/01/2017",
+                    "place": "Phillharmonie de Paris, Paris (FR)",
+                    "ensemble": {
+                         "name": "DAI students of CNSMDP",
+                         "Players": [
+                              "Conductor: William Le Sage",
+                              "Soprano: Youmi Kim",
+                              "Accordion: Vincent Gailly",
+                              "Trumpet: Noé Nillni",
+                              "Basson: Lomig Lamouroux",
+                              "Percussion: Guillaume Vittel and Thibault Lepri"
+                         ]
+                    },
+                    "program": "https://philharmoniedeparis.fr/fr/activite/concert/17083-over-rainbow",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Acc, Vl, Vc.",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1dVMVbTPH9ydtEAPBaPCEmh3AooDBxc9f/view?usp=sharing",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [
+                    "https://www.youtube.com/watch?v=BzNg96PqWy8&ab_channel=FranciscoUberto"
+               ],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/iiieme-partie-pixels-de-statique/s-kzzPK?si=2af5fa8901f14b78bf9e83cc3b0a3ea5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [""]
+          },
+          "commission": "Commissioned for the project 'Over the Rainbow' curated by Hae-Sun Kang",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "24",
+          "name": "We were uniques, we were a pure chemical imbalance, opposites attracts, and all that crap",
+          "year": "2016",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "2016",
+                    "place": "Institut Français-Barcelona, Barcelona (ESP)",
+                    "ensemble": {
+                         "name": "Barcelona Modern Project",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl, A.Sax, Pno, Vl, Vc",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1rgBlsSoi4-yn-ZZx1yYCdX7Z0AIZBq73/view?usp=sharing",
+               "Parts": "https://drive.google.com/file/d/0B_UfM3LztLbxMkhxeldRXzF5Qmc/view?usp=sharing&resourcekey=0-XuH6rzDvqEFvaUVH_7ia4Q"
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "25",
+          "name": "Full charged void",
+          "year": "2015",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "2016",
+                    "place": "IV forum international, Vila do Conde (PT)",
+                    "ensemble": {
+                         "name": "Sound'art electric ensemble",
+                         "Players": []
+                    },
+                    "program": "https://www.cm-viladoconde.pt/cmviladoconde/uploads/writer_file/document/2570/Programa.pdf",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl, Cl. (B.Cl), Pno, Vl, Vc",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1SLA3LhMKywlFYJckzh9ZkHJpEhj252qg/view?usp=share_link",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [
+                    "https://www.youtube.com/watch?v=unHEGy6Pays&ab_channel=FranciscoUberto"
+               ],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/full-charged-void?si=75cb0c2db9434aed8879b62941e6651d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/1DXBNRhE8U4aNHY6m5OzV6?si=c1a93a5f3be54ade"
+               ]
+          },
+          "commission": "Written as fellow of Ibermusicas 2014",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "26",
+          "name": "Inestable Jardín de luces",
+          "year": "2015",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "13/08/2015",
+                    "place": "Centro Cultural Córdoba. (ARG)",
+                    "ensemble": {
+                         "name": "Noise~ 21",
+                         "Players": [
+                              "Flute: Juan Otero",
+                              "Clarinet: Nicolas Savina",
+                              "Electric Guitar: Mariano Gentile",
+                              "Trombone: José Gutierrez",
+                              "Electronics: Francisco Uberto"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl, Cl. E. Gtr, Tbn",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B_UfM3LztLbxQ1BDM29lWlVTNW8/view?usp=share_link&resourcekey=0-agqVIy6tJ6FEDVHzgtAalQ",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "27",
+          "name": "<<°+3pH (they made me do it)",
+          "year": "2014",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "",
+                    "place": "",
+                    "ensemble": {
+                         "name": "VOXES",
+                         "Players": [
+                              "Flute: Rosario Castillo",
+                              "Clarinet: Griselda Giannini",
+                              "Piano: Julia Mann"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl, B.Cl, Pno",
+          "electronics": false,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "28",
+          "name": "Bang! (todo lo solido se desvanece en el aire) vol.1",
+          "year": "2013",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "5/12/2013",
+                    "place": "Tempus Fugit, Buenos Aires (ARG)",
+                    "ensemble": {
+                         "name": "Distat Terra ensemble",
+                         "Players": [
+                              "Clarinet: Griselda Giannini",
+                              "Trombone: Enrique Schneebeli",
+                              "Double bass: Edgardo Vizioli"
+                         ]
+                    },
+                    "program": "https://drive.google.com/file/d/0B_UfM3LztLbxLXE2bHhaSlMwZmZkV1BBTUdNOWxnWFF2ODA4/view?resourcekey=0-Rt48Kf7KqxKz05EZ14pQyg",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "7/12/2013",
+                    "place": "Festival Choele Choel, Choele Choel (ARG)",
+                    "ensemble": {
+                         "name": "Distat Terra ensemble",
+                         "Players": [
+                              "Clarinet: Griselda Giannini",
+                              "Trombone: Enrique Schneebeli",
+                              "Double bass: Edgardo Vizioli"
+                         ]
+                    },
+                    "program": "https://issuu.com/milipacheco/docs/arsnovaio/46",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Cl. (B.Cl.), Tbn. Db",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B_UfM3LztLbxU2Q2Y0I5cy04bDg/view?usp=share_link&resourcekey=0-AQQUydxCBS4m5G2WWZjLaQ",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "Commissioned by Fundation Musique Antique Nova (ARG)",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "29",
+          "name": "So on trio",
+          "year": "2013",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "",
+                    "place": "",
+                    "ensemble": {
+                         "name": "",
+                         "Players": []
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Cl. (B.Cl.), Tpta, Perc.",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1uoEwSviEXxUcm_OwMiwZHq653qZBfvNS/view?usp=share_link",
+               "Parts": "https://drive.google.com/drive/folders/1OoON9tqYM9P57VYBc8apX0jWiM3uLlsa?usp=share_link"
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "30",
+          "name": "Finisterre Nocturno Supernova",
+          "year": "2014",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "12/12/2014",
+                    "place": "Festival Distat Terra, Choele Choel (ARG)",
+                    "ensemble": {
+                         "name": "Distat Terra ensemble",
+                         "Players": []
+                    },
+                    "program": "https://issuu.com/visitavallemedio/docs/distat_terra_festival/56",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl. (B.Fl., Picc., G Fl.), Cl. (B.Cl), 2 perc., Vl, Vla, Vc, Conductor",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B1jCzkUoLaD9cXRyQVRQcjhIU0U/view?usp=sharing&resourcekey=0-oj0pbQYMyAO4olcLNwDD0Q",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [
+                    "https://youtu.be/p5sKqPlHjbw",
+                    "https://www.youtube.com/watch?v=1V8Oul1SRus&ab_channel=incipitsify"
+               ],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "31",
+          "name": "Operación Shylock",
+          "year": "2010",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "12/12/2010",
+                    "place": "CEPIA, Universidad Nacional de Córdoba (ARG)",
+                    "ensemble": {
+                         "name": "",
+                         "Players": [
+                              "Tenor Sax: Federico Ceballos",
+                              "Clarinet: Daniel Halaban"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Cl, T.Sax",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B_UfM3LztLbxR3I2RHVhUkt5WFE/view?usp=sharing&resourcekey=0-HFPaMZPl87rBZIhkCc70kQ",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/operacion-shylock?si=db94261721cf4debaa76b47a292d4aa1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "32",
+          "name": "Ese lado cítrico de la noche",
+          "year": "2019",
+          "categeory": "grand ensemble",
+          "concerts": [
+               {
+                    "date": "30/06/2019",
+                    "place": "Le CentQuatre 104 - Festival ManiFeste 2019, Paris (FR)",
+                    "ensemble": {
+                         "name": "Ensemble InterContemporain",
+                         "Players": ["conductor: Julien Leroy"]
+                    },
+                    "program": "https://www.ensembleintercontemporain.com/fr/concert/emergences-ii-2019-06-28-21h00-paris/",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl (B.Fl), Ob., Cl.(B.Cl.), B.Cl(Cb.Cl), Hn, Tbn, Pno, Vib, Vl(2), Db",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1H88emcCKtbcd55p3dU_zwnzoAXkRrR12/view?usp=sharing",
+               "Parts": "https://drive.google.com/drive/folders/15RsPqbSfwEAqyrPzQ_ypsozCApu08U--?usp=sharing"
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/ese-lado-citrico-de-la-noche-2019?si=bfedd4b4e31d49af84df0cb1283c3716&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/2fNyzdUpWaJvX6JZPENSNZ?si=52a61466318041a3"
+               ]
+          },
+          "commission": "Commissioned by Ircam, Festival ManiFeste, and Ensemble InterContemporain",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "33",
+          "name": "Per alas porci",
+          "year": "2018",
+          "categeory": "grand ensemble",
+          "concerts": [
+               {
+                    "date": "08/10/2018",
+                    "place": "Salle Rémy Pflimlin, Conservatoire National Supérieur de Musique et Danse, Paris (FR)",
+                    "ensemble": {
+                         "name": "Orchestre de Laureats du Conservatoire National Supérieur de Musique et Danse de Paris",
+                         "Players": ["conductor: Guillaume Burgogne"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl., Cl.(B.Cl.), B.Cl(Cb.Cl), A.Sax, Fg, H in F, Tp, Cr, Tbn, Acc, E.Gtr, Hp., Pno, 3 perc. Vl, Vla, Vc, Db, Soprano (soloist) & electronics",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/1ULF5aXqT_gBq29MyIuy4zXMfSGS-PKUn/view?usp=sharing",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/per-alas-porci"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/254R84TezunmC6weWEiDvb?si=a78f52607e57494d"
+               ]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "34",
+          "name": "La situación es catastrófica pero no seria",
+          "year": "2017",
+          "categeory": "grand ensemble",
+          "concerts": [
+               {
+                    "date": "30/10/2017",
+                    "place": "Salle Maurice Fleuret - Conservatoire National Supérieur de Musique et Danse, Paris (FR)",
+                    "ensemble": {
+                         "name": "Orchestre de Laureats du Conservatoire National Supérieur de Musique et Danse de Paris",
+                         "Players": ["conductor: Pieter-Jelle de Boer"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Fl, B.Fl, Cl, B.Cl, Soprano, Hn. in F, Trp., Tbn.,Perc. Pno. Acc. E.Gtr. Vln. Vla. Vc. Dbss.",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B1jCzkUoLaD9a3B5amkyN3pqWmc/view?usp=sharing&resourcekey=0-wvd9sMNqEWz-SmId4nNSUw",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/la-situacion-es-catastrofica-pero-no-seria-1ra-parte-silvestre"
+               ],
+               "spotify": [
+                    "https://open.spotify.com/track/254R84TezunmC6weWEiDvb?si=a78f52607e57494d"
+               ]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "35",
+          "name": "Proyecto Meninas",
+          "year": "2014",
+          "categeory": "grand ensemble",
+          "concerts": [
+               {
+                    "date": "",
+                    "place": "",
+                    "ensemble": {
+                         "name": "",
+                         "Players": [""]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Cl.(3), Vla(3), Tbn (3)",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B1jCzkUoLaD9Y3JEc1dyMG5MR0E/view?usp=sharing&resourcekey=0-BWGrIHJ0Qv96IT-DfuVigQ",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "36",
+          "name": "Sed",
+          "year": "2014",
+          "categeory": "Vocal",
+          "concerts": [
+               {
+                    "date": "",
+                    "place": "",
+                    "ensemble": {
+                         "name": "",
+                         "Players": [""]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "2 Sop. 1 Mezzo, 1 C.Alto, 2 Tenors, 1 Baritone, 1 bass.",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B1jCzkUoLaD9MGRtTlBhRzNrNWs/view?usp=sharing&resourcekey=0-p2Wcuz6vdcBO81q0RkG5JQ",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "37",
+          "name": "Un Modigliani",
+          "year": "2010",
+          "categeory": "Vocal",
+          "concerts": [
+               {
+                    "date": "7/12/2010",
+                    "place": "Asociación Dante Alighieri, Buenos Aires (ARG)",
+                    "ensemble": {
+                         "name": "Nosense ensemble vocal de solistas",
+                         "Players": [""]
+                    },
+                    "program": "http://www.germinaciones.org/prismas/PDF/2010_programa_argentina.pdf",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "8/12/2010",
+                    "place": "Universidad Nacional de La Plata, La Plata (ARG)",
+                    "ensemble": {
+                         "name": "Nosense ensemble vocal de solistas",
+                         "Players": [""]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "2 Sop. 1 Mezzo",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B1jCzkUoLaD9bU9BNS1GUFBVVVE/view?usp=sharing&resourcekey=0-y_rgM8_NKV2-w3VJhrXFfA",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [
+                    "https://www.youtube.com/watch?v=RxRreB11Gsw&ab_channel=FranciscoUberto"
+               ],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "Ceibo 2010",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "38",
+          "name": "Las Corinas y los lanzallamas",
+          "year": "2015",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "4/10/2015",
+                    "place": "CETC, Teatro Colón, Buenos Aires (ARG)",
+                    "ensemble": {
+                         "name": "Trio K/D/M",
+                         "Players": [
+                              "Accordion: Anthony Millet",
+                              "percussion I: Gilles Durot",
+                              "percussion II: Victor Hanna"
+                         ]
+                    },
+                    "program": "",
+                    "FacebookEvent": "https://www.facebook.com/events/1613010645624931/",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Acc, 2 perc.",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://www.dropbox.com/s/ohm6946h7hp0yux/UBERTO_Las%20Corinas%20y%20los%20Lanzallamas.pdf?dl=0",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": ["https://youtu.be/TfvhXnpddXE"],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/las-corinas-y-los-lanzallamas/s-nFNTbzTFtVJ?si=c91695a221924e199dd48533754fd64d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "39",
+          "name": "Bleu (Finito Vol. 1)",
+          "year": "2012",
+          "categeory": "Orchestral",
+          "concerts": [
+               {
+                    "date": "30/10/2012",
+                    "place": "Aula Magna, Universidad Nacional de Córdoba (ARG)",
+                    "ensemble": {
+                         "name": "Orquesta de la Universidad Nacional de Córdoba",
+                         "Players": [
+                              "Conductor: Gonzalo Bustos",
+                              "Pianist: Gabriela Gregorat",
+                              "Bandonéon: ?",
+                              "E. Gtr: Javier Rabinovic"
+                         ]
+                    },
+                    "program": "https://drive.google.com/file/d/0B_UfM3LztLbxOGpxbHlsVDlHbi1OcVMzT2w2Ri1KWUJwR3Fv/view?resourcekey=0-idLuOeX9Ai2RFPhQ1auhgQ",
+                    "FacebookEvent": "",
+                    "poster": "https://drive.google.com/file/d/0B_UfM3LztLbxOGpxbHlsVDlHbi1OcVMzT2w2Ri1KWUJwR3Fv/view?usp=sharing&resourcekey=0-idLuOeX9Ai2RFPhQ1auhgQ"
+               }
+          ],
+          "instruments": "2.1.2.1/2.1.3/2./E.gtr. Bandoneón, Pno/6.6.6.5.4. & electronics",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B_UfM3LztLbxQkZUdzh3cVRsWmM/view?usp=sharing&resourcekey=0-RnJTzCFxnMiJ7Yok8ibsfA",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "Written as part of 'Músicas en Dirigibles' 2012",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "40",
+          "name": "Fairplay",
+          "year": "2011",
+          "categeory": "Wind Band",
+          "concerts": [
+               {
+                    "date": "28/05/2011",
+                    "place": "Teatro del Libertador San Martín, Córdoba (ARG)",
+                    "ensemble": {
+                         "name": "Banda Sinfónica de la provincia de Córdoba",
+                         "Players": ["Conductor: Hadrian Avila Arzuza"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "",
+          "electronics": false,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B_UfM3LztLbxMlhiMWM3VDVuckU/view?usp=share_link&resourcekey=0--xCddacx5l8dJ4q10O7yIA",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": ["https://www.youtube.com/watch?v=qPm3PhehC1o"],
+               "soundcloud": [
+                    "https://soundcloud.com/franciscouberto/fairplay?si=344acbb932cc4672af8dd5dba936a43e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+               ],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "spanish",
+                         "link": "http://www.bitacoradevuelo.com.ar/2011/05/27/la-banda-estrena-obras-premiadas/"
+                    }
+               }
+          ]
+     },
+     {
+          "id": "41",
+          "name": "Autorretrato (Finito vol. 3b)",
+          "year": "2013",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "18/11/2013",
+                    "place": "CEPIA, Universidad Nacional de Córdoba (ARG)",
+                    "ensemble": {
+                         "name": "",
+                         "Players": [
+                              "Flute: Juan Otero",
+                              "Electric Guitar: Mariano Gentile",
+                              "Tenor Sax: Federico Ceballos"
+                         ]
+                    },
+                    "program": "https://issuu.com/tsonamibsas/docs/programaci__n_tsonami_c__rdoba_2013/4",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Flute, E. Gtr, T.Sax, video, electronics",
+          "electronics": true,
+          "score": {
+               "fullScore": "https://drive.google.com/file/d/0B_UfM3LztLbxQkZUdzh3cVRsWmM/view?usp=sharing&resourcekey=0-RnJTzCFxnMiJ7Yok8ibsfA",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "Written as fellow of Juan Carlos Paz from Fondo Nacional de las Artes (ARG)",
+          "video": true,
+          "video_by": "Francisco Uberto",
+          "prizes": [""],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "42",
+          "name": "Aria Aerodinámica",
+          "year": "2017",
+          "categeory": "chamber music",
+          "concerts": [
+               {
+                    "date": "10/06/2017",
+                    "place": "Maison de la Musique de Nanterre (FR)",
+                    "ensemble": {
+                         "name": "Orchestre d'Harmonie du Conservatoire de Nanterre",
+                         "Players": [
+                              "Conductor: William Le Sage",
+                              "Soloist: Camille Maussion"
+                         ]
+                    },
+                    "program": "https://www.harmonie-nanterre.fr/historique",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "Wind Band",
+          "electronics": false,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "Commissioned by the Wind Band of Conservatory of Nanterre (FR)",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "43",
+          "name": "Débris",
+          "year": "2020",
+          "categeory": "Performance",
+          "concerts": [
+               {
+                    "date": "12/09/2020",
+                    "place": "Festival l'Antinational - Théâtre de Verre, Paris (FR)",
+                    "ensemble": {
+                         "name": "",
+                         "Players": [
+                              "Performer: Maria-Elena Capra",
+                              "Electronics: Francisco Uberto"
+                         ]
+                    },
+                    "program": "https://www.harmonie-nanterre.fr/historique",
+                    "FacebookEvent": "",
+                    "poster": ""
+               }
+          ],
+          "instruments": "computer + video",
+          "electronics": true,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": true,
+          "video_by": "Maria-Elena Capra",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     },
+     {
+          "id": "44",
+          "name": "Pigasus",
+          "year": "2018",
+          "categeory": "Acousmatic",
+          "concerts": [
+               {
+                    "date": "30/10/2018",
+                    "place": "Salle Stravinsky, IRCAM, Paris (FR)",
+                    "ensemble": {
+                         "name": "",
+                         "Players": ["Electronics: Francisco Uberto"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "",
+                    "poster": ""
+               },
+               {
+                    "date": "29/4/2018",
+                    "place": "Cité International des Arts, Paris (FR)",
+                    "ensemble": {
+                         "name": "",
+                         "Players": ["Electronics: Francisco Uberto"]
+                    },
+                    "program": "",
+                    "FacebookEvent": "https://fb.me/e/31T2bSpPp",
+                    "poster": ""
+               }
+          ],
+          "instruments": "computer",
+          "electronics": true,
+          "score": {
+               "fullScore": "",
+               "Parts": ""
+          },
+          "lnks": {
+               "youtube": [""],
+               "soundcloud": [""],
+               "spotify": [""]
+          },
+          "commission": "",
+          "video": false,
+          "video_by": "",
+          "prizes": [],
+          "press": [
+               {
+                    "blog": {
+                         "language": "",
+                         "link": ""
+                    }
+               }
+          ]
+     }
+]

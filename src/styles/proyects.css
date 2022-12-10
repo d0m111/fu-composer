@@ -1,0 +1,51 @@
+.upcoming-proyects {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: left;
+     text-align: left;
+     width: 80%;
+     margin: auto;
+}
+.upcoming-proyects h2 {
+     font-size: 59.52px;
+     line-height: 16px;
+     font-weight: 80;
+     letter-spacing: 4.64px;
+}
+.concert-info {
+     margin: 0% 0% 0% -70px;
+     /* margin-left: -70px; */
+     font-size: 0.618rem;
+     line-height: 1.41;
+
+     text-transform: uppercase;
+}
+/* .concert-info p {
+     margin: 0%;
+} */
+.concert-date {
+     margin: 0%;
+     font-weight: 700;
+}
+.concert-place {
+     margin: 0%;
+     font-weight: 300;
+}
+
+.glitchy-letters {
+     margin: 0.5% 0%;
+     text-align: start;
+     /* position: relative; */
+     /* top: -106.5px; */
+     color: transparent;
+     font-size: 27.3px;
+     font-weight: 80;
+     line-height: 1em;
+     /* z-index: 1; */
+     background: url(https://i0.wp.com/my-passion.blog/wp-content/uploads/2020/01/d8e5739b1f600e3c750e9c0684160c79.gif?w=409&h=531&ssl=1);
+     background-size: auto;
+     background-clip: border-box;
+     background-size: 10%;
+     -webkit-background-clip: text;
+}

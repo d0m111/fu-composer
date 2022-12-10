@@ -1,0 +1,41 @@
+main {
+     background-color: white;
+}
+
+article {
+     height: 1250px;
+}
+
+.text-wrapper {
+     background-color: rgba(0, 0, 0, 0.673);
+     position: sticky;
+     top: 0px;
+     z-index: 1;
+     mix-blend-mode: difference;
+     color: white;
+     /* height: 1250px; */
+}
+
+.presentation-container {
+     display: flex;
+     text-align: left;
+     letter-spacing: 0.71em;
+}
+.presentation-text {
+     font-size: 48px;
+     text-transform: uppercase;
+     line-height: 148%;
+}
+.photo-wrapper {
+     z-index: none;
+     margin: auto;
+     width: 100%;
+     display: flex;
+}
+
+.photo-wrapper img {
+     z-index: 0;
+     object-fit: cover;
+     width: 80%;
+     margin: auto;
+}
